@@ -1,4 +1,4 @@
 node_modules
-
+dist
 # Ignore transpiled js files.
 src/*.js 
