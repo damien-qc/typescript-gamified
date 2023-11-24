@@ -1,0 +1,9 @@
+EYW:
+level 1: typescript with noImplicitAny = true + linter
+level 2: no more 'any' type
+level 3: 
+
+re usability of codebase
+re usability of types / type sharing 
+auto versioning based on diff
+use latest minor version of packages

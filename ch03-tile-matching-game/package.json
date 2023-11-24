@@ -1,0 +1,21 @@
+{
+  "name": "ch03-tile-matching-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "npm run build && node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.6.4",
+    "@types/readline-sync": "^1.4.6",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
